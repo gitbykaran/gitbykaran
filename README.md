@@ -1,4 +1,4 @@
-👨‍💻 Karandeep - Data Enthusiast
+👨‍💻 Karandeep Singh - Data Enthusiast
 
 📊 Pursuing Data Analytics and Data Science
 💡 Crafting data-driven projects regularly
