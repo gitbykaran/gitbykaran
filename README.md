@@ -1,3 +1,6 @@
+![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--ES7ZxtOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
+
+
 <h1 align="center">Hi 👋, I'm Karandeep Singh</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
